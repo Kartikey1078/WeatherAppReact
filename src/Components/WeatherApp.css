@@ -252,6 +252,8 @@ body {
     .weather-container {
         padding: 15px;
         width: 320px;
+        display: flex;
+        flex-direction: row;
     }
 
     .temperature {
