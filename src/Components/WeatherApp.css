@@ -252,8 +252,7 @@ body {
     .weather-container {
         padding: 15px;
         width: 320px;
-        display: flex;
-        flex-direction: row;
+       
     }
 
     .temperature {
@@ -269,8 +268,9 @@ body {
     }
 
     .weather-details {
-        flex-direction: column;
         padding: 10px;
+        display: flex;
+        flex-direction: row;
     }
 
     .detail-box p:first-child {
