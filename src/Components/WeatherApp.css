@@ -254,6 +254,12 @@ body {
         width: 320px;
        
     }
+    .weather-icon img {
+        width: 140px;
+        height: 100px;
+        margin: 5px 0;
+        object-fit: cover;
+    }
 
     .temperature {
         font-size: 35px;
