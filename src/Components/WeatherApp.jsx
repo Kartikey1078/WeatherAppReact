@@ -87,7 +87,7 @@ function WeatherApp() {
                             <p>Humidity</p>
                         </div>
                         <div className="detail-box">
-                            <p>{weather.speed} km/h</p>
+                            <p>{weather.speed} km/hr</p>
                             <p>Wind Speed</p>
                         </div>
                     </div>
